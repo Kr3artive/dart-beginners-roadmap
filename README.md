@@ -33,9 +33,6 @@ You should have:
 
 ## 📚 Resources
 - [Official Dart Docs](https://dart.dev/guides)
-- [DartPad (Online Editor)](https://dartpad.dev/)
-
----
 
 ---
 
