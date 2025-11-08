@@ -81,7 +81,7 @@ Follow these steps to start learning Dart with this roadmap:
 
 3. To run the Dart code in each file to see examples in action:
    ```bash
-      dart run <filename>.dart e.g dart.run variables.dart
+      dart run <filename>.dart e.g dart run variables.dart
 
 
 ---
