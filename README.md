@@ -57,34 +57,34 @@ Follow these steps to start learning Dart with this roadmap:
 
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/Kr3artive/dart-beginners-roadmap.git
+      git clone https://github.com/Kr3artive/dart-beginners-roadmap.git
 
 2. Open the project folder in your preferred code editor (e.g., VS Code).
 
-Follow the learning order by opening the Dart files in sequence. Each file covers a specific concept:
-
-variables.dart → Learn how to declare and use variables in Dart and Understand Dart’s basic types like int, double, String, bool, etc..
-
-lists.dart → Explore lists and how to store multiple items.
-
-maps.dart → Learn key-value pairs with Dart maps.
-
-loops.dart → Practice repetition using for, while, and do-while loops.
-
-logic.dart → Master conditional statements (if-else, switch) and logical operators.
-
-functions.dart → Understand functions, parameters, and return values.
-
-input.dart → Learn how to take input from users in the console.
-
-convertingDatatypes.dart → Practice converting between different data types (e.g., String ↔ int).
+   Follow the learning order by opening the Dart files in sequence. Each file covers a specific concept:
+   
+   variables.dart → Learn how to declare and use variables in Dart and Understand Dart’s basic types like int, double, String, bool, etc..
+   
+   lists.dart → Explore lists and how to store multiple items.
+   
+   maps.dart → Learn key-value pairs with Dart maps.
+   
+   loops.dart → Practice repetition using for, while, and do-while loops.
+   
+   logic.dart → Master conditional statements (if-else, switch) and logical operators.
+   
+   functions.dart → Understand functions, parameters, and return values.
+   
+   input.dart → Learn how to take input from users in the console.
+   
+   convertingDatatypes.dart → Practice converting between different data types (e.g., String ↔ int).
 
 3. To run the Dart code in each file to see examples in action:
- ```bash
-   dart run <filename>.dart
+   ```bash
+      dart run <filename>.dart e.g dart.run variables.dart
+
 
 ---
-
 
 ## 🤝 Contributing
 Contributions are welcome!  
